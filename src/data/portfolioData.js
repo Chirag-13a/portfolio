@@ -8,6 +8,7 @@ export const personalInfo = {
   email: "chiragagarwal1947@gmail.com",
   linkedin: "https://linkedin.com/in/chirag13a",
   github: "https://github.com/Chirag-13a",
+  leetcode: "https://leetcode.com/u/udvPyZgQcH/",
   objective:
     "Aspiring Software Developer with hands-on experience in MERN Stack, FastAPI, AI-assisted tools, and Data Science (NumPy, Pandas, scikit-learn). Passionate about building responsive UIs, intuitive user experiences, and data-driven applications.",
 };

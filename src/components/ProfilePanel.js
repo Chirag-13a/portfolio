@@ -5,6 +5,7 @@ import {
   IoLogoGithub,
   IoLogoLinkedin,
 } from "react-icons/io5";
+import { SiLeetcode } from "react-icons/si";
 import { personalInfo } from "../data/portfolioData";
 
 function ProfilePanel() {
@@ -68,6 +69,14 @@ function ProfilePanel() {
             aria-label="LinkedIn"
           >
             <IoLogoLinkedin />
+          </a>
+          <a
+            href={personalInfo.leetcode}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LeetCode"
+          >
+            <SiLeetcode />
           </a>
         </div>
       </div>
