@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-primary: #080a09;
+  --bg-secondary: #101413;
+  --bg-card: #151b19;
+  --bg-nav: #1b2421;
+  --bg-card-hover: #22302b;
+  --border: #31413a;
+  --text-primary: #f7fbf6;
+  --text-secondary: #d2ddd6;
+  --text-muted: #8f9e94;
+  --accent: #39e6b5;
+  --accent-secondary: #ffb86b;
+  --accent-dim: rgba(57, 230, 181, 0.12);
+  --accent-glow: rgba(57, 230, 181, 0.34);
+  --accent-secondary-glow: rgba(255, 184, 107, 0.28);
+  --gradient-1: linear-gradient(135deg, #39e6b5 0%, #ffb86b 100%);
+  --gradient-2: linear-gradient(135deg, #ff6b6b 0%, #ffb86b 100%);
+  --gradient-3: linear-gradient(135deg, #39e6b5 0%, #ff6b6b 100%);
+  --radius: 20px;
+  --radius-sm: 12px;
+  --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.7;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  background-attachment: fixed;
+  background-image: 
+    radial-gradient(circle at 18% 28%, rgba(57, 230, 181, 0.09) 0%, transparent 38%),
+    radial-gradient(circle at 82% 78%, rgba(255, 184, 107, 0.08) 0%, transparent 42%),
+    linear-gradient(135deg, #080a09 0%, #111816 52%, #0a1110 100%);
+}
+
+a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--bg-primary);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--accent) 0%, var(--accent-secondary) 100%);
+  border-radius: 5px;
+  border: 2px solid var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #39e6b5 0%, #ffb86b 100%);
+}

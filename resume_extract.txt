@@ -1,0 +1,53 @@
+Chirag Agarwal
+Jaipur, India|♂phone+91-8690464455|/envel⌢pechiragagarwal1947@gmail.com
+/linkedinLinkedIn/githubGitHub
+Career Objective
+Aspiring Full Stack Developer with hands-on experience in MERN Stack, FastAPI, and Data Science (NumPy, Pandas,
+scikit-learn). Passionate about building responsive UIs, intuitive user experiences, and data-driven applications.
+Technical Skills
+•Languages:HTML, CSS, JavaScript, Python, C
+•Frameworks & Libraries:React.js, Node.js, Express.js, FastAPI, Bootstrap
+•Databases:MySQL, SQL, MongoDB
+•Data Science & MLNumPy, Pandas, Scikit-learn, spaCy
+•Development Tools:Visual Studio Code, Figma, Adobe XD
+•Database Tools:SQL Server, DBeaver, MongoDB Compass
+•Version Control:Git, GitHub
+•Concepts & Technologies:OOP, REST APIs, Socket.IO
+Experience
+Software Developer Intern | Vidhema Technologies Jun 2025 – Aug 2025
+•Worked on live MERN stack projects (MongoDB, Express.js, React.js, Node.js).
+•Built features such as CRUD APIs, JWT authentication, OTP verification, real-time chat, and dynamic filtering.
+•Gained hands-on experience in full-stack development, UI/UX improvement, and API integration.
+•Collaborated with an Agile team and used Git, Postman, and debugging tools for project development.
+Web Development Intern | Inhouse Jul 2024 – Jul 2024
+•Designed responsive web pages, improving mobile usability and reducing UI/UX issues by 30%.
+•Improved front-end performance and user experience through optimized HTML, CSS, and JavaScript implementations.
+Projects
+AI Home Assistant | MERN Stack, FastAPI, NLP, Machine Learning
+•Developed an AI-powered system to analyze household issues and provide real-time troubleshooting guidance before expert
+arrival.
+•Built a responsive frontend using React (MERN) for user input and displaying AI suggestions and expert listings.
+•Integrated FastAPI as a separate AI service for NLP-based problem classification and urgency detection.
+•Utilized spaCy and Scikit-learn for text analysis and recommendation system to suggest nearby service providers.
+InsightAlly | React.js, Node.js, Express.js, MongoDB, REST APIs
+•Built an interactive web interface using React, Node,js and Express,js to connect college students with alumni for men-
+torship and guidance.
+•Developed simple backend functionality using Java to handle user login, mentor matching, and session management.
+•Used MySQL to store and retrieve data like student profiles, mentor availability, and session records.
+•Integrated basic video call functionality using WebRTC to enable real-time communication between students and mentors.
+Education
+Swami Keshvanand Institute of Technology, Jaipur Sep 2023 – Present
+Bachelor of Technology in Electronics and Communication Engineering
+Blue Heaven Vidyalaya, Jaipur 2022 – 2023
+Intermediate / +2
+Blue Heaven Vidyalaya, Jaipur 2020 – 2021
+High School
+Certifications
+•HackerRank - MERN SQL,Software Engineer Intern
+•Google Cloud Certified
+•AWS Certified
+
+LINKS:
+mailto:chiragagarwal1947@gmail.com
+https://linkedin.com/in/chirag13a
+https://github.com/Chirag-13a
